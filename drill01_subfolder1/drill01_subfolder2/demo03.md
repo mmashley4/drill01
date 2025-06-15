@@ -1,0 +1,1 @@
+demo03 indicates comprehension with adding files to folders in Git.
